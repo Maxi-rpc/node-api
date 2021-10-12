@@ -1,0 +1,25 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "Api en node js + express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxi-rpc/node-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxi-rpc/node-api/issues"
+  },
+  "homepage": "https://github.com/Maxi-rpc/node-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

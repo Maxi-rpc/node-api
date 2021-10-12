@@ -1,2 +1,5 @@
 # node-api
- Api en node js + express
+
+Api en node js + express
+
+Se utiliza nodemon
