@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/Maxi-rpc/node-api#readme",
   "devDependencies": {
-    "nodemon": "^2.0.13"
+    "nodemon": "2.0.13"
+  },
+  "dependencies": {
+    "express": "4.17.1"
   }
 }
